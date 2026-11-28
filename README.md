@@ -6,7 +6,6 @@
 ![DataCamp](https://img.shields.io/badge/Platform-DataCamp-03EF62?style=flat&logo=datacamp&logoColor=black)
 ![Courses](https://img.shields.io/badge/Courses-4%20completed-blue?style=flat)
 ![Level](https://img.shields.io/badge/Level-Beginner%20→%20Intermediate-orange?style=flat)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
 
 > **Platform:** DataCamp — *Data Engineer in Python* career track
 
@@ -39,7 +38,7 @@ Python fundamentals through a **recipe scaler** project: variables and data type
 Writing reusable, robust code: built-in functions, the `os` and `string` modules, packages and pandas, custom functions (default/keyword arguments, docstrings, `*args`, `**kwargs`), lambda functions with `map()`, and error handling with `try-except` and `raise`.
 
 ### 4. [Introduction to Importing Data in Python](4_Introduction_to_Importing_Data_in_Python/Importing_Data_Showcase.ipynb)
-Getting data into Python from three kinds of sources: flat files (plain text, NumPy `loadtxt`/`genfromtxt`, pandas `read_csv`), other formats (pickle, Excel, SAS, Stata, HDF5, MATLAB) and relational databases (SQLAlchemy engine, `SELECT`/`WHERE`/`ORDER BY`/`JOIN`, `pd.read_sql_query`). Runs on the 9 course datasets in [`datasets/`](4_Introduction_to_Importing_Data_in_Python/datasets/), including the Chinook SQLite database and LIGO HDF5 data; SQL code uses the current SQLAlchemy 2.x API.
+Getting data into Python from three kinds of sources: flat files (plain text, NumPy `loadtxt`/`genfromtxt`, pandas `read_csv`), other formats (pickle, Excel, SAS, Stata, HDF5, MATLAB) and relational databases (SQLAlchemy engine, `SELECT`/`WHERE`/`ORDER BY`/`JOIN`, `pd.read_sql_query`). Runs on the 9 course datasets in [`Resources/`](4_Introduction_to_Importing_Data_in_Python/Resources/), including the Chinook SQLite database and LIGO HDF5 data; SQL code uses the current SQLAlchemy 2.x API.
 
 ## 🧰 Skills Demonstrated
 
@@ -60,7 +59,7 @@ Getting data into Python from three kinds of sources: flat files (plain text, Nu
 | `chapterN.pdf` | Course theory slides by chapter |
 | `glossary.pdf` | Course glossary |
 | `*.md` | Personal course notes (Course 1) |
-| `datasets/` | Datasets used in the course (Course 4) |
+| `Resources/` | Datasets used in the course (Course 4) |
 
 ## 🚀 How to Run
 
@@ -71,7 +70,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Run each notebook from its own folder so relative paths (e.g. `datasets/`) resolve correctly.
+Run each notebook from its own folder so relative paths (e.g. `Resources/`) resolve correctly.
 
 ---
 
