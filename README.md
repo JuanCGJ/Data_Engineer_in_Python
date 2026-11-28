@@ -22,7 +22,7 @@ Each folder contains a **showcase notebook**, not a copy of my notes: a short pr
 |---|---|---|---|
 | 1 | [1_Understanding_Cloud_Computing](1_Understanding_Cloud_Computing/) | Understanding Cloud Computing | [Cloud_Computing_Showcase.ipynb](1_Understanding_Cloud_Computing/Cloud_Computing_Showcase.ipynb) |
 | 2 | [2_Introduction_to_Python_for_Developers](2_Introduction_to_Python_for_Developers/) | Introduction to Python for Developers | [Python_for_Developers_Showcase.ipynb](2_Introduction_to_Python_for_Developers/Python_for_Developers_Showcase.ipynb) |
-| 3 | [3_Intermediate_Python_For_Developers](3_Intermediate_Python_For_Developers/) | Intermediate Python for Developers | [Intermediate_Python_Showcase.ipynb](3_Intermediate_Python_For_Developers/Intermediate_Python_Showcase.ipynb) |
+| 3 | [3_Intermediate_Python_for_Developers](3_Intermediate_Python_for_Developers/) | Intermediate Python for Developers | [Intermediate_Python_Showcase.ipynb](3_Intermediate_Python_for_Developers/Intermediate_Python_Showcase.ipynb) |
 | 4 | [4_Introduction_to_Importing_Data_in_Python](4_Introduction_to_Importing_Data_in_Python/) | Introduction to Importing Data in Python | [Importing_Data_Showcase.ipynb](4_Introduction_to_Importing_Data_in_Python/Importing_Data_Showcase.ipynb) |
 
 *More courses will be added as I progress through the track.*
@@ -35,7 +35,7 @@ Conceptual course: cloud value (virtualization, scalability, pay-as-you-go), ser
 ### 2. [Introduction to Python for Developers](2_Introduction_to_Python_for_Developers/Python_for_Developers_Showcase.ipynb)
 Python fundamentals through a **recipe scaler** project: variables and data types, operators, strings, lists, dictionaries, sets, tuples, conditionals, `for`/`while` loops and workflow keywords (`in`, `not`, `and`, `or`, `.append()`).
 
-### 3. [Intermediate Python for Developers](3_Intermediate_Python_For_Developers/Intermediate_Python_Showcase.ipynb)
+### 3. [Intermediate Python for Developers](3_Intermediate_Python_for_Developers/Intermediate_Python_Showcase.ipynb)
 Writing reusable, robust code: built-in functions, the `os` and `string` modules, packages and pandas, custom functions (default/keyword arguments, docstrings, `*args`, `**kwargs`), lambda functions with `map()`, and error handling with `try-except` and `raise`.
 
 ### 4. [Introduction to Importing Data in Python](4_Introduction_to_Importing_Data_in_Python/Importing_Data_Showcase.ipynb)
@@ -59,7 +59,7 @@ Getting data into Python from three kinds of sources: flat files (plain text, Nu
 | `*_Showcase.ipynb` | Showcase notebook for each course |
 | `chapterN.pdf` | Course theory slides by chapter |
 | `glossary.pdf` | Course glossary |
-| `*.md` / `*.txt` | Personal course notes (Course 1) |
+| `*.md` | Personal course notes (Course 1) |
 | `datasets/` | Datasets used in the course (Course 4) |
 
 ## 🚀 How to Run
