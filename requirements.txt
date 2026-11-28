@@ -1,0 +1,9 @@
+jupyter
+pandas
+numpy
+matplotlib
+scipy
+h5py
+sqlalchemy>=2.0
+sas7bdat
+openpyxl
